@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.efadd209.css",
+    "main.js": "/static/js/main.961b9a5e.js",
+    "static/js/27.db087d70.chunk.js": "/static/js/27.db087d70.chunk.js",
+    "static/media/notify.wav": "/static/media/notify.54f09e8ab9c181b3419a.wav",
+    "static/media/message.mp3": "/static/media/message.6dc40117b90f9e8bd29f.mp3",
+    "index.html": "/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.efadd209.css",
+    "static/js/main.961b9a5e.js"
+  ]
+}
